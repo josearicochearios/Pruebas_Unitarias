@@ -1,2 +1,2 @@
-# Pruebas_Unitarias
-Las configuraciones necesarias para que tu proyecto funcione con JUnit 4
+# Pruebas Unitarias con Intellij, apache maven y JUnit 5 (JUnit jupiter)
+Se agrego framework maven al proyecto
